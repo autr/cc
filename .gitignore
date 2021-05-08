@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+/.svelte
+/build/posts/*
+/functions
+static/posts/*
+static/assets/*
+pnpm-lock.yaml
